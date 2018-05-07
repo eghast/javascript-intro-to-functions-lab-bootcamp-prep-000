@@ -22,5 +22,5 @@ function sayHiToGrandma(string){
 }
 
 function sayHiToGrandma(string){
-   return("I love you, Grandma.")
+   return 'I love you, Grandma'.to
 }
